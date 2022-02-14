@@ -37,7 +37,7 @@ export class HomeComponent implements OnInit {
         category: 'Information About COVID-19 Vaccines',
         style: {background: 'rgba(144, 238, 144, 0.25)'},
         id: 'newark-vaccine-sites',
-        extUrl: 'https://drive.google.com/file/d/1ZOSQlRvbYREOzbwhEn8cqsmSOqexOoSf/view?usp=sharing'
+        extUrl: 'https://drive.google.com/file/d/12nYcTx6m7nLWzbGmvlH4RL1flFWhbGEz/view?usp=sharing'
       },
       {
         icon: 'health_and_safety',
